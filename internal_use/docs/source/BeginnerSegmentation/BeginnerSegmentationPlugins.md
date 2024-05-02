@@ -8,7 +8,7 @@ Broad Institute of MIT and Harvard, Cambridge, MA.
 
 ### General background information
 
-This exercise is meant to extend and build upon the Beginner Segmentation exercise available from tutorials.cellprofiler.org . Please consult that tutorial for general information on how to configure CellProfiler as well as information about the images. It will be generally assumed you understand the modules covered in that tutorial, including input, object creation, overlays, and saving. 
+This exercise is meant to extend and build upon the Beginner Segmentation exercise available from tutorials.cellprofiler.org. Please consult that tutorial for general information on how to configure CellProfiler as well as information about the images. It will be generally assumed you understand the modules covered in that tutorial, including input, object creation, overlays, and saving. 
 
 ### What is this exercise?
 
@@ -20,7 +20,7 @@ There are a number of great software tools available to a biologist wishing to a
 
 ### Plugins
 
-While CellProfiler doesn't have as many plugins as, say, Fiji, it does have many for you to try! You can visit plugins.cellprofiler.org to learn more. To quote from that site:
+While CellProfiler doesn't have as many plugins, it does have many for you to try! You can visit plugins.cellprofiler.org to learn more. To quote from that site:
 
 >Plugins advance the capabilities of CellProfiler but are not officially supported in the same way as modules. A module may be in CellProfiler-plugins instead of CellProfiler itself because:
 >- it is under active development
