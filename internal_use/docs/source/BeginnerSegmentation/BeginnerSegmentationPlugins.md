@@ -20,7 +20,7 @@ There are a number of great software tools available to life scientists wishing 
 
 ### Plugins
 
-While CellProfiler doesn't have as many plugins as, say, Fiji, it does have many for you to try! 
+While CellProfiler doesn't have as many plugins, it does have some for you to try! 
 You can visit plugins.cellprofiler.org to learn more. To quote from that site:
 
 >Plugins advance the capabilities of CellProfiler but are not officially supported in the same way as modules. A module may be in CellProfiler-plugins instead of CellProfiler itself because:
@@ -239,3 +239,7 @@ The output of the RunCellpose module
 
 4. As before, using OverlayOutlines and/or the WorkspaceViewer, evaluate segmentation on a few images. Where is CellProfiler doing better, and where is Cellpose doing better?
 5. Use the <img src="./TutorialImages/Info.png" width="35"> button to learn more about the different parameters you can pass to Cellpose (we don't offer all of them, but many) - how does tweaking these affect your output? How does changing the model you're using, and/or the image you're segmenting?
+
+### What next? Want to know more about modules and plugins?
+1. Read the CellProfiler-plugins paper! https://pubmed.ncbi.nlm.nih.gov/37690102/
+2. Learn how to write CellProfiler modules! https://www.youtube.com/watch?v=fgF_YueM1b8
